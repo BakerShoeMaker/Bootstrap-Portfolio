@@ -272,3 +272,16 @@ a:link, a:visited, a:hover, a:active {
 .footerText{
     text-align: center;
 }
+
+/* For testing purposes */
+.container{
+
+    background-color: mediumvioletred;
+}
+.mainContainer1{
+
+    background-color: darkorange;
+}.mainContainer2{
+
+    background-color: #5fbfff;
+}

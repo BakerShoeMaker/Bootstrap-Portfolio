@@ -14,19 +14,70 @@
     <!-- ****************** Bootstrap Nav bar ******************-->
     <div class="row">
 
+        <div class="col">
+            <h1 class="h1_dHollaway">D Hollaway</h1>
+        </div>
+
+        <div class="col">
+            <ul class="nav justify-content-end">
+                <li class="nav-item">
+                    <a class="nav-link active" href="index.html">About </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="portfolio.html">Portfolio</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="contact.html">Contact</a>
+                </li>
+            </ul>
+        </div>
+
     </div>
 
     <!-- ****************** Main Container ******************** -->
     <div class ="row">
         <!-- Contact form -->
-        <div class="col">
+        <div class="col-m-6 mainContainer1">
+
+            <div id="AboutMe">
+                <!-- About me with image and text -->
+                <h2>Contact Me</h2>
+
+                <form class="form-group">
+                    <label for="example-text-input" class="col-2 col-form-label text-left">Name </label>
+                    <div class="col-10">
+                        <input class="form-control text-left" type="text" value="Enter your name">
+                    </div>
+
+                    <label for="example-text-input" class="col-2 col-form-label text-left">Email </label>
+                        <div class="col-10">
+                            <input class="form-control text-left" type="text" value="Enter your email"
+                                   id="example-text-input">
+                        </div>
+
+                    <label for="exampleTextarea" class="col-2 col-form-label text-left">Message</label>
+                    <div class="col-10">
+                        <textarea class="form-control p-b-3rem" id="exampleTextarea" rows="5"></textarea>
+                    </div>
+
+                    <button type="button" class="btn btn-primary">Submit</button>
+
+                </form>
+
+            </div>
 
         </div>
 
         <!--Connect with me -->
-        <div class="col">
+        <div class="col-m-4 mainContainer2">
 
-        </div>
+            <div class="card-block">
+                <h4 class="card-title">ConnectWithMe</h4>
+                <hr>
+                <a href="https://github.com/BakerShoeMaker"><img src="assets/images/logo_github.png" width="40px" height="40px" ></a>
+                <a href="https://www.linkedin.com/"><img src="assets/images/logo_linkin.png" width="40px" height="40px"></a>
+                <a href="https://stackoverflow.com/"><img src="assets/images/logo_stackoverflow.png" width="40px" height="40px"></a>
+            </div>
     </div>
 
     <!-- ****************** Footer band *** ****************** -->
