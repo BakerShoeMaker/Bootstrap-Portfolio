@@ -85,7 +85,7 @@ a:link, a:visited, a:hover, a:active {
 .h1_dHollaway
 {
     background-color: #4aaaa5;
-    display: inline;
+    /*display: inline;*/
     padding: 20px;
     color:white;
 
