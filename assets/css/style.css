@@ -58,6 +58,7 @@ h4 span{
     letter-spacing: -1px;
     background: #4aaaa5;
     padding: 10px;
+    width: 100%;
     /*https://css-tricks.com/text-blocks-over-image/*/
 }
 
@@ -281,6 +282,7 @@ a:link, a:visited, a:hover, a:active {
 .mainContainer1{
 
     background-color: darkorange;
+
 }.mainContainer2{
 
     background-color: #5fbfff;
