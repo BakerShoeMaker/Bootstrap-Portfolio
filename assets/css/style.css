@@ -149,49 +149,32 @@ a:link, a:visited, a:hover, a:active {
 }
 .image1{
     position: absolute;
-    top: 292px;
-    left:115px;
+    top: 210px;
+    left:130px;
     /*opacity:.75;*/
     display: inline;
     float: left;
 }
 .image2{
     position: absolute;
-    top: 290px;
-    left:330px;
+    top: 210px;
+    left:375px;
     /*opacity:.75;*/
     display: inline;
     float: left;
 }
 .image3{
     position: absolute;
-    top: 440px;
-    left:115px;
+    top: 375px;
+    left:130px;
     /*opacity:.75;*/
     display: inline;
     float: left;
 }
 .image4{
     position: absolute;
-    top: 440px;
-    left:360px;
-    /*opacity:.75;*/
-    display: inline;
-    float: left;
-}
-
-.image3{
-    position: absolute;
-    top: 440px;
-    left:115px;
-    /*opacity:.75;*/
-    display: inline;
-    float: left;
-}
-.image4{
-    position: absolute;
-    top: 440px;
-    left:360px;
+    top: 375px;
+    left:390px;
     /*opacity:.75;*/
     display: inline;
     float: left;
@@ -199,16 +182,16 @@ a:link, a:visited, a:hover, a:active {
 
 .image5{
     position: absolute;
-    top: 590px;
-    left:135px;
+    top: 543px;
+    left:165px;
     /*opacity:.75;*/
     display: inline;
     float: left;
 }
 .image6{
     position: absolute;
-    top: 592px;
-    left:315px;
+    top: 543px;
+    left:335px;
     /*opacity:.75;*/
     display: inline;
     float: left;
@@ -277,13 +260,13 @@ a:link, a:visited, a:hover, a:active {
 /* For testing purposes */
 .container{
 
-    background-color: mediumvioletred;
+    /*background-color: mediumvioletred;*/
 }
 .mainContainer1{
 
-    background-color: darkorange;
+    /*background-color: darkorange;*/
 
 }.mainContainer2{
 
-    background-color: #5fbfff;
+    /*background-color: #5fbfff;*/
 }
